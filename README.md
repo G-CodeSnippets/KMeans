@@ -1,2 +1,5 @@
 # KMeans
-Kmeans example from apache commons. Cluster of locations into k clusters
+Kmeans example from apache commons. 
+Used for 
+- Clustering: locations into k clusters
+- Sampling: obtain k points in total, one from each cluster with the shortest distance to the cluster's centroid
